@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "videoaccesos-80f0e",
+  "private_key_id": "f9b91c5c3dd0693bbafa70db5bef793ca89cba10",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHkLvvH15WqEwb\n6C6v3O0BJbhYx4DJjH+aX2CV3kXfRIN/MIHY0AXLG4NHbXw2siF0azmhEo7JjY2M\nuM7UXk/UCwBTIJ8+HpcRoajC7bpRbbbXcBR4hytneOaIPBgZR8iLqx0mclVkqloj\nx9Luv1gOCDdOKAnbw5X2xQGlHXF95RKWRLzzPZfsAyt53G4aYSk5TXXBc9FPDqFv\nR/9r0/pzr8IaN78AuF8V5cWdC3q8aolcbOVTzRRKdGteYqzabgk2FR9SLT+D8T7U\nNx6HwlDhUW0hkv5iJ8+XsI9s1EE0fMhn+0QE/xDZRj8iFaJ+ai5yXKLbbOoYWKCJ\npFnz5JIrAgMBAAECggEAKW+YTeiV9mlAUEUPuI0nGqdh1PErgO2uqvdlvwhlOpvn\nr7d7JnDe2xKt2d1WPqcSwjDnSNXpFtlQzCitLTQd4BmeqiPqXIQOeuc1eq/QkUq1\n/Zp0bagnL3dPancLy+f3MGTJiyuPJnUmfSpm1hKdrmAvV4eBsIM2NoQmOMnZwDk7\njv8P+R9WZ6/KqTSrmfRNieM6ryTdGq+bd4KA7KQgk53NlbHSM5HE2JaWIZQKPRHU\nWPuMPesUrTe0qHST4WbpQJay9UGbkVbyMoqimnt9J575MJarzuLrQHb0QuSCWOy4\nGtshHJp2lD2dKdSE3VmW9It5CrKFHAu3fEsb79bX9QKBgQDpcOexgXZh3BPOXyuo\n1bHvSjJvj0HLu3JGiIkLoBPWyOF7zYXaZlqERSUScCpoRvHlsy5HSAu0JG7g7tYX\noWwEgFgz4BArsizOK31rtYHAcETuDK0Qyts6ASrU/sIOUnkuKg5/SNxVcRIwKjoU\nbT9yqnncJMYvlNL4cAIRjSORHwKBgQDa2ceCSJ5ZNtPXyO6E2+9EM9DJQNTFC+q6\nUciuElYmvRNaTErMgWIgfh4CT0ttIt7tkA5F0oA5TZtS8+UvwRstl0Ve4lUzS3gp\nVEki/hXKOWDW3z7jVjX1exbDld/oHHmF1m3nEIVKbiKhQDzhkluTfWpSyJt2jzVV\nUnKnKgnhdQKBgExE2y4fgjIO2Vm/tl//EZeAwmG4iGKr53Yr/bqSnmi6URFF4Mmu\nTzyP6sDPbMuNAlNt61zWqRw+GwvafJBT6Rq/ZBHuztm36POjOeMK9k2NYLf15EVs\nQZv97aSRZ42OXJE8pGfpwjMYMj0STs+FsgkgsZe/XBEHqrYIwmRBnLE5AoGBAI19\nzYpC7vWZB/9z7hnBpADBS1RCcQ1wdfK+G3PHcSGcjp2Lw7RSViHRyA8QOyC1MdH/\nl+q2fKYPscNA4kUsoSipq3T7+b+vJGH8F0jjYy0aSazCKwOJ4lrymLYc+OU1O7A3\nAVkpijOj3wnH4VSpbkF+DTa2ciSF1CJ0qqG/ASJdAoGANi07oq7ATumv8RP/wy6T\nlIlrNJQvoVR1iZbyGbQE3qQAIY+oJzKCBUqCOE7StrfFPg0v79DeibYP+NtJyKWF\nRor426u0ODFddKFvLTeYkobunGc+pAeMBGufFJp+r2gxOKFqNokKgkUWRIV01J9G\ntZQPUPaDmnGWkRelHhJi2pg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudvision@videoaccesos-80f0e.iam.gserviceaccount.com",
+  "client_id": "113754245458339124773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudvision%40videoaccesos-80f0e.iam.gserviceaccount.com"
+}
